@@ -1,6 +1,6 @@
 # Curso JogosClassicosParte_1_IniciandoNoJavascriptComPong
 
-<img src="https://gamedesignunesp.files.wordpress.com/2011/05/foto-pong.jpg</a>
+<img src="https://gamedesignunesp.files.wordpress.com/2011/05/foto-pong.jpg"></a>
 
 <p>Pong é o primeiro videojogo lucrativo da história, dando origem a um novo setor da indústria. Foi de importância fundamental na história do videojogo. Foi criado por Nolan Bushnell e Ted Dabney na forma de um console ligado a um monitor, movido a moedas. </>
   
