@@ -11,3 +11,7 @@
 <li><b>Plataforma:</b> Arcade</li>
 <li><b>Gêneros:</b> Jogo eletrônico de esporte, Jogo de simulação</li>
 
+<p><b>Ferramentas utilizadas para estudo:</b></p>
+<li>P5 Web Editor - https://editor.p5js.org/ </li>
+<li> scratch  - https://scratch.mit.edu/ </li>
+<p><b>Linguagem de Programação: JavaScript</b></li>
